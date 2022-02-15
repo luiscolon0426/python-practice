@@ -23,7 +23,7 @@ act3 = input("action3: ")
 
 
 madlib = f"You were the {pro}! It was said you would {act} the {pro2} \
-    not {act2}! Bring {adj} to the force, not {act3} in {adj2}! you were \
-        my {adj3}!"
+not {act2}! Bring {adj} to the force, not {act3} in {adj2}! you were \
+my {adj3}!"
 
 print(madlib)
